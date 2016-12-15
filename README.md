@@ -36,3 +36,17 @@
   | Lower Left:  | <kbd>ctrl</kbd> + <kbd>shift</kbd> + <kbd>cmd</kbd> + <kbd>&darr;</kbd> |
   | Upper Right: | <kbd>ctrl</kbd> + <kbd>shift</kbd> + <kbd>cmd</kbd> + <kbd>&uarr;</kbd> |
   | Upper Left:  | <kbd>ctrl</kbd> + <kbd>shift</kbd> + <kbd>cmd</kbd> + <kbd>&rarr;</kbd> |
+
+## Change macOS Preferences
+
+### Dock
+
+* `System Preferences` / `Dock`
+* Position on screen: **Left**
+* Check **Automatically hide and show the Dock**
+
+### Keyboard
+
+* `System Preferences` / `Keyboard` / `Keyboard`
+* Key Repeat: **Fast**
+* Delay Until Repeat: **Short**
