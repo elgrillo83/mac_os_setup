@@ -35,7 +35,7 @@
   | Upper Left:  | <kbd>ctrl</kbd> + <kbd>shift</kbd> + <kbd>cmd</kbd> + <kbd>&larr;</kbd> |
   | Lower Left:  | <kbd>ctrl</kbd> + <kbd>shift</kbd> + <kbd>cmd</kbd> + <kbd>&darr;</kbd> |
   | Upper Right: | <kbd>ctrl</kbd> + <kbd>shift</kbd> + <kbd>cmd</kbd> + <kbd>&uarr;</kbd> |
-  | Upper Left:  | <kbd>ctrl</kbd> + <kbd>shift</kbd> + <kbd>cmd</kbd> + <kbd>&rarr;</kbd> |
+  | Lower Right: | <kbd>ctrl</kbd> + <kbd>shift</kbd> + <kbd>cmd</kbd> + <kbd>&rarr;</kbd> |
 
 ## Change macOS Preferences
 
@@ -54,4 +54,4 @@
 ### Trackpad
 
 * `System Preferences` / `Trackpad`
-* Activate **Touch to Click**
+* Activate **Tap to Click**
