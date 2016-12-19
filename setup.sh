@@ -5,5 +5,6 @@
 
 # Install macOS applications
 brew cask install google-chrome
+brew cask install hipchat
 brew cask install iterm2
 brew cask install spectacle
