@@ -11,7 +11,7 @@
 
 ## Clone this repo
 
-* `git@github.com:elgrillo83/mac_os_setup.git`
+* `git clone git@github.com:elgrillo83/mac_os_setup.git`
 
 ## Run setup script
 
@@ -50,3 +50,8 @@
 * `System Preferences` / `Keyboard` / `Keyboard`
 * Key Repeat: **Fast**
 * Delay Until Repeat: **Short**
+
+### Trackpad
+
+* `System Preferences` / `Trackpad`
+* Activate **Touch to Click**
