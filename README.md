@@ -58,7 +58,7 @@
 
 ### Keyboard Layout
 
-* Download and unzip http://hci.rwth-aachen.de/tiki-download_wiki_attachment.php?attId=793&page=USGermanKeyboard
+* Download and unzip from https://hci.rwth-aachen.de/USGermanKeyboard
 * Copy `Roman.bundle` to `/Library/Keyboard\ Layouts`
 * Go to `System Preferences` / `Keyboard` / `Input Sources`
 * Add `Others` / `U.S. With Umlauts via Option Key`
