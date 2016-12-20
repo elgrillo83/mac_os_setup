@@ -19,6 +19,11 @@
 
 ## Change App Preferences
 
+### iTerm2
+
+* `Preferences` / `Profiles` / `General`
+* **Working Directory** Reuse previous session's directory
+
 ### Spectacle
 
 * Activate **Launch Spectacle at login**
