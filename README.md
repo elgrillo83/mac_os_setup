@@ -56,6 +56,11 @@
 * Key Repeat: **Fast**
 * Delay Until Repeat: **Short**
 
+### Keyboard Layout
+
+* Download and unzip http://hci.rwth-aachen.de/tiki-download_wiki_attachment.php?attId=793&page=USGermanKeyboard
+* Copy `Roman.bundle` to `/Library/Keyboard\ Layouts`
+
 ### Trackpad
 
 * `System Preferences` / `Trackpad`
