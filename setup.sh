@@ -14,3 +14,7 @@ brew cask install spectacle
 brew install rbenv
 rbenv install 2.2.4
 rbenv install 2.3.1
+
+# Install mysql (mariadb)
+brew install mariadb
+brew services start mariadb
