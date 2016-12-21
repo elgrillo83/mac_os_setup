@@ -63,6 +63,13 @@
 * Go to `System Preferences` / `Keyboard` / `Input Sources`
 * Add `Others` / `U.S. With Umlauts via Option Key`
 
+### Mouse
+
+* `System Preferences` / `Mouse` / `Point & Click`
+* Activate **Secondary click**
+* `System Preferences` / `Mouse` / `More Gestures`
+* Activate **Swipe between pages**
+
 ### Trackpad
 
 * `System Preferences` / `Trackpad`
