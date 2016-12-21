@@ -8,6 +8,7 @@ brew cask install google-chrome
 brew cask install hipchat
 brew cask install iterm2
 brew cask install macvim
+brew cask install robomongo
 brew cask install spectacle
 
 # Install rbenv and some ~ruby versions
