@@ -20,5 +20,9 @@ rbenv install 2.3.1
 brew install mariadb
 brew services start mariadb
 
+# Install redis
+brew install redis
+brew services start redis
+
 # Install packages
 brew install ag
