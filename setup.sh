@@ -12,6 +12,7 @@ brew cask install robomongo
 brew cask install spectacle
 brew cask install radiant-player
 brew cask install flash-npapi # needed for radiant-player
+brew cask install sequel-pro
 
 # Install rbenv and some ~ruby versions
 brew install rbenv
