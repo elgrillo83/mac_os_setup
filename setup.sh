@@ -19,3 +19,6 @@ rbenv install 2.3.1
 # Install mysql (mariadb)
 brew install mariadb
 brew services start mariadb
+
+# Install packages
+brew install ag
