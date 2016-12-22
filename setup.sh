@@ -10,6 +10,8 @@ brew cask install iterm2
 brew cask install macvim
 brew cask install robomongo
 brew cask install spectacle
+brew cask install radiant-player
+brew cask install flash-npapi # needed for radiant-player
 
 # Install rbenv and some ~ruby versions
 brew install rbenv
