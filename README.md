@@ -44,6 +44,12 @@
 
 ## Change macOS Preferences
 
+### Date & Time
+
+* `System Preferences` / `Date & Time` / `Clock`
+* Activate **Use a 24-hour clock**
+* Activate **Show date** 
+
 ### Dock
 
 * `System Preferences` / `Dock`
