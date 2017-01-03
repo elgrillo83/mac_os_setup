@@ -29,3 +29,4 @@ brew services start redis
 
 # Install packages
 brew install ag
+brew install tree
