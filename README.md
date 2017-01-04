@@ -61,6 +61,8 @@
 * `System Preferences` / `Keyboard` / `Keyboard`
 * Key Repeat: **Fast**
 * Delay Until Repeat: **Short**
+* `System Preferences` / `Keyboard` / `Text`
+* Deactivate **Correct spelling automatically**
 
 ### Keyboard Layout
 
