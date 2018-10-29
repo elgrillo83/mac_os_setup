@@ -5,6 +5,11 @@
 * Add keys to `~/.ssh`
 * Change private key's file permission to user read-only: `chmod 400 ~/.ssh/id_rsa`
 
+## Install brew
+
+* `/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"`
+* See: https://brew.sh
+
 ## Install git
 
 * `brew install git`
