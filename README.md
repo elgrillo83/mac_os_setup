@@ -7,6 +7,10 @@
 - Toggl Track => https://toggl.com/track/time-tracking-mac/
 - Visual Studio Code
 
+## CLIs
+
+- NVM => https://github.com/nvm-sh/nvm
+
 ## SSH Keys
 
 * Add keys to `~/.ssh`
@@ -55,6 +59,9 @@
   | Lower Right: | <kbd>ctrl</kbd> + <kbd>shift</kbd> + <kbd>cmd</kbd> + <kbd>&rarr;</kbd> |
 
 ## Change macOS Preferences
+
+### Finder
+- Show hidden files in finder => `defaults write com.apple.finder AppleShowAllFiles TRUE ; killall Finder`
 
 ### Date & Time
 
