@@ -1,5 +1,11 @@
 # macOS Setup
 
+## Apps
+
+- Google Chrome
+- Visual Studio Code
+- Rectangle (open source, based on Spectacle)
+
 ## SSH Keys
 
 * Add keys to `~/.ssh`
