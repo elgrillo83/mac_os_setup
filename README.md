@@ -3,8 +3,9 @@
 ## Apps
 
 - Google Chrome
+- Rectangle (open source, based on Spectacle) => https://rectangleapp.com
+- Toggl Track => https://toggl.com/track/time-tracking-mac/
 - Visual Studio Code
-- Rectangle (open source, based on Spectacle)
 
 ## SSH Keys
 
