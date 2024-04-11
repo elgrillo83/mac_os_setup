@@ -61,7 +61,10 @@
 ## Change macOS Preferences
 
 ### Finder
-- Show hidden files in finder => `defaults write com.apple.finder AppleShowAllFiles TRUE ; killall Finder`
+
+- Show hidden files
+  - Finder => `Shift` + `Command` + `.`
+  - Terminal => `defaults write com.apple.finder AppleShowAllFiles TRUE ; killall Finder`
 
 ### Date & Time
 
